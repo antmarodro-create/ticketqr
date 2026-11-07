@@ -1,0 +1,1 @@
+-- TicketQR: tablas de la base de datos (se completará en el siguiente paso)
