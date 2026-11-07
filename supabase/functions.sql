@@ -1,0 +1,1 @@
+-- TicketQR: funciones RPC (process_scan, force_duplicate_entry)
