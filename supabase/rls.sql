@@ -1,0 +1,1 @@
+-- TicketQR: políticas Row Level Security
